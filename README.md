@@ -46,16 +46,16 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-Create Superser
-
-```bash
-  python manage.py createsuperuser
-```
-
 Apply DB Migrations
 
 ```bash
   python manage.py migrate
+```
+
+Create Superser
+
+```bash
+  python manage.py createsuperuser
 ```
 
 Start server
