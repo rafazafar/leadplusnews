@@ -49,6 +49,7 @@
         />
         {% endif %}
         <div class="card-body">
+          <p class="text-muted small mb-2">{{article.author}}</p>
           <h5 class="card-title">{{article.title}}</h5>
           <p class="card-text">{{article.description | truncatechars:100}}</p>
           <a href="{% url 'news:detail' article.id %}" class="btn btn-primary"
