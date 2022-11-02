@@ -20,6 +20,10 @@ To run this project, you will need to add the following environment variables to
 
 #### 2) Clone .env.example to .env
 
+```bash
+  cp leadplusnews/.env.example leadplusnews/.env
+```
+
 #### 3) Update .env with apikey from Newsapi.com
 
 ## Run Locally
