@@ -1,5 +1,5 @@
 django
 djangorestframework
 django-filter
-request
+requests
 django-environ
