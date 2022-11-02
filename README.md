@@ -4,6 +4,10 @@ A test project for Leadplus. Django app for consuming and serving articles from 
 
 ** please read FAQ section below for known bugs **
 
+## Screenshot
+
+![Screenshot](https://res.cloudinary.com/rafazafar/image/upload/w_800/v1667413925/Screenshot_2022-11-03_at_3.31.41.png)
+
 ## Requirements
 
 - **Python:** >3.10
