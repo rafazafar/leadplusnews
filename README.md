@@ -80,28 +80,6 @@ Visit admin at [http://localhost:8000/admin](http://localhost:8000/admin)
   GET /api/articles?format=json
 ```
 
-## Deployment
-
-Make sure Docker is installed.
-
-Clone the project
-
-```bash
-  git clone https://bitbucket.org/asianatech/jpf-directus.git
-```
-
-Go to the project directory
-
-```bash
-  cd jpf-directus
-```
-
-Start using Docker-Compose
-
-```bash
-  docker-compose up -d
-```
-
 ## Seeding Database
 
 Run seeding command from project root folder.
